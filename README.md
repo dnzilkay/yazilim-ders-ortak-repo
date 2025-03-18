@@ -1,0 +1,1 @@
+# yazilim-ders-ortak-repo
