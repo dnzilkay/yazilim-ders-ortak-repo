@@ -1,4 +1,4 @@
-class DepoVeri():
+class DepoVeri:
     def __init__(self):
         self.depo_sicaklik = 0
         self.depo_nem = 0
